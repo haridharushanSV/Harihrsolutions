@@ -641,25 +641,25 @@ hr{
 @media only screen and (min-height: 720px) {
   #sec2{
     position: absolute;
-    top: 45%;
+    top: 55%;
   }
  #sec3{
   position: absolute;
-  top: 295%;
+  top: 335%;
  }
 #sec4{
   position: absolute;
-  top: 485%;
+  top: 517%;
  
 }
 #sec5{
   position: absolute;
-  top: 668%;
+  top: 688%;
  
 }
 #sec6{
   position: absolute;
-  top: 699%;
+  top: 713%;
 }
 
  }
@@ -685,24 +685,28 @@ hr{
  
   }
   @media only screen and (min-height: 840px) {
+    #sec2{
+      position: absolute;
+      top: 45%;
+    }
     #sec3{
       position: absolute;
-      top: 250%;
+      top: 290%;
      }
     #sec4{
       position: absolute;
-      top: 411%;
+      top: 447%;
      
     }
    
     #sec5{
      position: absolute;
-     top: 568%;
+     top: 595%;
     
    }
    #sec6{
      position: absolute;
-     top: 591%;
+     top: 621%;
    }
    
     }
@@ -729,13 +733,17 @@ hr{
    
     }
   @media only screen and (min-height: 860px) {
+    #sec2{
+      position: absolute;
+      top: 46%;
+    }
     #sec3{
       position: absolute;
-      top: 240%;
+      top: 270%;
      }
     #sec4{
       position: absolute;
-      top: 391%;
+      top: 420%;
      
     }
    
@@ -750,3 +758,4 @@ hr{
    }
    
     }
+
